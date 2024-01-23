@@ -1,6 +1,3 @@
-// Method DDoS Layer7 Leaked By  t.me/LekaingCode
-/ node HTTPS.js target time Rate threads proxyFile
-
 const net = require("net");
  const http2 = require("http2");
  const tls = require("tls");
